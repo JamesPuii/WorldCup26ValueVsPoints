@@ -1,4 +1,4 @@
-# Did money predicts World Cup results.
+# Did money predicts World Cup results?
 Squad market value ranged from €38m to €2.13bn across the 48 teams. Did the gap show up on the pitch?
 
 [View the interactive dashboard on Tableau Public](https://public.tableau.com/views/WorldCup2026Moneyboughtresults/Dashboard1)
