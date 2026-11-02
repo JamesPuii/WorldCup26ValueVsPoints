@@ -29,6 +29,10 @@ Correlation is not causation, and squad value is probably a proxy.
 
 Points per match compresses the knockout rounds. 
 
+ **How I Used AI**
+
+I used Claude as a coding partner to help write and debug SQL queries, set up the GitHub repo, and build the Tableau dashboard. I chose the question, the metrics, and the approach, reviewed every query before using it, and interpreted the results.
+
 **Written in SQLite. Visualized in Tableau Public.**
 
 James Puii | [Linkedin](https://www.linkedin.com/in/james-puii-md/) | [Tableau Public](https://public.tableau.com/app/profile/james.puii/vizzes)
